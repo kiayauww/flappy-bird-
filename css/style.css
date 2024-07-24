@@ -1,0 +1,10 @@
+canvas{
+    border: 1px solid white;
+     background-color: rgb(79, 233, 79);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
